@@ -26,7 +26,7 @@ Hi, I holder of a diploma technician specializing in the development of digital 
 height="60"/>
 <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo-500x281.png" alt="JS" width="100" 
 height="60"/>
-<img src="https://www.cupcom.com.br/wp-content/uploads/2021/03/IMAGENS-SITE-NEW-bootstrap-n-1024x576.jpg" alt="Bootstrap" width="100" 
+<img src="https://miro.medium.com/v2/resize:fit:370/format:webp/1*Bl1TaCZ_WlgYmAZMBmaCVw.png" alt="Bootstrap" width="100" 
 height="60"/>
 <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="Tailwind" width="100" 
 height="40"/>
