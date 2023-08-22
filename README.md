@@ -28,9 +28,9 @@ height="60"/>
 height="60"/>
 <img src="https://www.cupcom.com.br/wp-content/uploads/2021/03/IMAGENS-SITE-NEW-bootstrap-n-1024x576.jpg" alt="Bootstrap" width="100" 
 height="60"/>
-<img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="Tailwind" width="40" 
+<img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="Tailwind" width="100" 
 height="40"/>
-<img src="https://e7.pngegg.com/pngimages/33/52/png-clipart-sass-logo-cascading-style-sheets-scalable-graphics-less-text-logo.png" alt="sass" width="40" height="40"/>
+<img src="https://e7.pngegg.com/pngimages/33/52/png-clipart-sass-logo-cascading-style-sheets-scalable-graphics-less-text-logo.png" alt="sass" width="100" height="40"/>
 
 
 
