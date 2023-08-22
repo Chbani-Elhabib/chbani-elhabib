@@ -30,7 +30,7 @@ height="60"/>
 height="60"/>
 <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="Tailwind" width="100" 
 height="40"/>
-<img src="https://e7.pngegg.com/pngimages/33/52/png-clipart-sass-logo-cascading-style-sheets-scalable-graphics-less-text-logo.png" alt="sass" width="100" height="40"/>
+<img src="https://camo.githubusercontent.com/6f4d1d6d07d88966968247c0a88ebf418732b7ddb49ff7d67404bf1a20ebbc8e/68747470733a2f2f776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f736173732d312e737667" alt="sass" width="100" height="40"/>
 
 
 
