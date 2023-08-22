@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://linktr.ee/chbani.elbabib" target="_blank">El Habib CHBANI </a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <br>
-<br>
 <p align="center">
 Hi, I holder of a diploma technician specializing in the development of digital option web full stack, I have more than two years of experience in web development. Dealing with incidents and problems with good knowledge of web page development.
 </p>
@@ -17,8 +16,6 @@ Hi, I holder of a diploma technician specializing in the development of digital 
 💬 Ask me anything about from Here
 <br>
 📫 How to reach me: chbani.el7abib@gmail.com
-
-
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
