@@ -24,13 +24,14 @@ Hi, I holder of a diploma technician specializing in the development of digital 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" 
 height="40"/>
+<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo-500x281.png" alt="JS" width="100" 
+height="80"/>
 <img src="https://www.cupcom.com.br/wp-content/uploads/2021/03/IMAGENS-SITE-NEW-bootstrap-n-1024x576.jpg" alt="Bootstrap" width="40" 
 height="40"/>
 <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="Tailwind" width="40" 
 height="40"/>
 <img src="https://e7.pngegg.com/pngimages/33/52/png-clipart-sass-logo-cascading-style-sheets-scalable-graphics-less-text-logo.png" alt="sass" width="40" height="40"/>
-<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo-500x281.png" alt="JS" width="50" 
-height="50"/>
+
 
 
 
