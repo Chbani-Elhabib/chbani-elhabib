@@ -29,11 +29,12 @@ height="60"/>
 <img src="https://mistral.cssninja.io/img/logos/tailwindcss.svg" alt="Tailwind" width="100" height="60"/>
 <img src="https://camo.githubusercontent.com/6f4d1d6d07d88966968247c0a88ebf418732b7ddb49ff7d67404bf1a20ebbc8e/68747470733a2f2f776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f736173732d312e737667" alt="sass" width="100" height="50"/>
 <img src="https://www.pngitem.com/pimgs/m/295-2954190_jquery-hd-png-download.png" alt="jQuery" width="100" height="60"/>
-<img src="https://fingers-site-production.s3.eu-central-1.amazonaws.com/uploads/images/zyjFHAn4EW5IegJDRxXNyy09flfzc8MpJz5FGfQo.webp" alt="jQuery" width="90" height="60"/>
+<img src="https://fingers-site-production.s3.eu-central-1.amazonaws.com/uploads/images/zyjFHAn4EW5IegJDRxXNyy09flfzc8MpJz5FGfQo.webp" alt="jQuery" width="80" height="60"/>
 </p>
 <h3> • Back-End :</h3>
 <p align="left">
 <img src="https://logowik.com/content/uploads/images/php.jpg" alt="PHP" width="100" height="60"/>
+  <img src="https://logowiki.net/uploads/logo/l/laravel-2.svg" alt="Laravel" width="100" height="60"/>
 </p>
 <h3> • DadaBase  :</h3>
 <h3> • Project management :</h3>
