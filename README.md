@@ -34,7 +34,9 @@ height="60"/>
 <h3> • Back-End :</h3>
 <p align="left">
 <img src="https://logowik.com/content/uploads/images/php.jpg" alt="PHP" width="100" height="60"/>
-  <img src="https://logowiki.net/uploads/logo/l/laravel-2.svg" alt="Laravel" width="100" height="60"/>
+<img src="https://logowiki.net/uploads/logo/l/laravel-2.svg" alt="Laravel" width="100" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Nodejs" width="100" height="60"/>
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/07/express-logo-397x180.png" alt="expressjs" width="100" height="60"/>
 </p>
 <h3> • DadaBase  :</h3>
 <h3> • Project management :</h3>
