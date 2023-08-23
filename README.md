@@ -29,7 +29,7 @@
     <img src="/image/js.png" alt="JS" width="80" height="50"/>
     <img src="/image/bootstrap.png" alt="Bootstrap" width="80" height="50"/>
     <img src="/image/Tailwind.png" alt="Tailwind" width="80" height="50"/>
-    <img src="/image/sass.png" alt="sass" width="80" height="50"/>
+    <img src="/image/sass.png" style="margin-right: 10px" alt="sass" width="80" height="50"/>
     <img src="/image/JQuery.png" alt="jQuery" width="80" height="50"/>
     <img src="image/react.png" alt="react" width="80" height="50"/>
 </p>
