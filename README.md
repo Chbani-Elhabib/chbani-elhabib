@@ -24,14 +24,14 @@
 <br>
 <h3> • Front-End :</h3>
 <p align="left">
-    <img src="/image/html.png" alt="html5" width="90" height="60"/>
-    <img src="/image/css.png" alt="css3" width="90" height="60"/>
-    <img src="/image/js.png" alt="JS" width="90" height="60"/>
-    <img src="/image/bootstrap.png" alt="Bootstrap" width="90" height="50"/>
-    <img src="/image/Tailwind.png" alt="Tailwind" width="90" height="60"/>
-    <img src="/image/sass.png" alt="sass" width="90" height="50"/>
-    <img src="/image/JQuery.png" alt="jQuery" width="90" height="60"/>
-    <img src="image/react.png" alt="react" width="90" height="60"/>
+    <img src="/image/html.png" alt="html5" width="80" height="50"/>
+    <img src="/image/css.png" alt="css3" width="80" height="50"/>
+    <img src="/image/js.png" alt="JS" width="80" height="50"/>
+    <img src="/image/bootstrap.png" alt="Bootstrap" width="80" height="50"/>
+    <img src="/image/Tailwind.png" alt="Tailwind" width="80" height="50"/>
+    <img src="/image/sass.png" alt="sass" width="80" height="50"/>
+    <img src="/image/JQuery.png" alt="jQuery" width="80" height="50"/>
+    <img src="image/react.png" alt="react" width="80" height="50"/>
 </p>
 <h3> • Back-End :</h3>
 <p align="left">
