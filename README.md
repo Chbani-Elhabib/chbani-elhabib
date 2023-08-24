@@ -47,5 +47,11 @@
 <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-500x313.jpg" alt="MongoDB" width="100" height="60"/>
 </p>
 <h3> • Project management :</h3>
+<p align="left">
+    <img src="image/Jira.png" alt="Jira" width="105px" height="86px"/>
+</p>
 <h3> • SGBD  :</h3>
-
+<p align="left">
+    <img src="image/UML.png" alt="UML" width="105px" height="86px"/>
+    <img src="image/Merise.png" alt="Merise" width="112px" height="97px"/>
+</p>
