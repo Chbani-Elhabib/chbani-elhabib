@@ -38,17 +38,13 @@
 </p>
 <h3> • DadaBase  :</h3>
 <p align="left">
-    <img src="image/sql.png" alt="SQL" width="98px" height="80px"/>
-    <img src="image/MySQL.png" alt="MySQL" width="93px" height="83px"/>
-<img src="https://2.bp.blogspot.com/-5k1bgBZ2DnU/V0qd4_rNr3I/AAAAAAAAL_w/wy8xW8jCyZ4rGHFPSqv_H6kYQ2foaacVACLcB/s320/NoSQL.png" alt="NoSQL" width="100" height="60"/>
-    <img src="image/MongoDB.png" alt="MongoDB" width="100" height="60"/>
+    <img src="image/DadaBase.png" alt="DadaBase"/>
 </p>
 <h3> • Project management :</h3>
 <p align="left">
-    <img src="image/Jira.png" alt="Jira" width="105px" height="86px"/>
+    <img src="image/Jira.png" alt="Jira" width="114px" height="102px"/>
 </p>
 <h3> • SGBD  :</h3>
 <p align="left">
-    <img src="image/UML.png" alt="UML" width="105px" height="86px"/>
-    <img src="image/Merise.png" alt="Merise" width="112px" height="97px"/>
+    <img src="image/SGBD.png" alt="SGBD"/>
 </p>
