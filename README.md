@@ -20,7 +20,7 @@
 <br>
 📫 How to reach me: chbani.el7abib@gmail.com
 <hr>
-<h2 align="center" color="red">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center" color="red">🔥 Skills and Languages & Abilities 🔥</h2>
 <h3> • Front-End :</h3>
 <p align="left">
     <img src="image/Front-End.png" alt="Front-End" />
