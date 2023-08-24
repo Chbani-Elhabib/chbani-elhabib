@@ -42,7 +42,7 @@
 </p>
 <h3> • Project management :</h3>
 <p align="left">
-    <img src="image/Jira.png" alt="Jira" width="114px" height="102px"/>
+    <img src="image/Jira.png" alt="Jira" />
 </p>
 <h3> • SGBD  :</h3>
 <p align="left">
