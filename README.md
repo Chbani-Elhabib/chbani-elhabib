@@ -41,10 +41,10 @@
 </p>
 <h3> • DadaBase  :</h3>
 <p align="left">
-<img src="https://seekicon.com/free-icon-download/sql_1.svg" alt="SQL" width="100" height="60"/>
-<img src="https://velog.velcdn.com/images/sua_ahn/post/384b0925-cde6-4fdb-a263-c6d574fc562a/image.png" alt="MySQL" width="110" height="80"/>
+    <img src="image/sql.png" alt="SQL" width="98px" height="80px"/>
+    <img src="image/MySQL.png" alt="MySQL" width="93px" height="83px"/>
 <img src="https://2.bp.blogspot.com/-5k1bgBZ2DnU/V0qd4_rNr3I/AAAAAAAAL_w/wy8xW8jCyZ4rGHFPSqv_H6kYQ2foaacVACLcB/s320/NoSQL.png" alt="NoSQL" width="100" height="60"/>
-<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-500x313.jpg" alt="MongoDB" width="100" height="60"/>
+    <img src="image/MongoDB.png" alt="MongoDB" width="100" height="60"/>
 </p>
 <h3> • Project management :</h3>
 <p align="left">
