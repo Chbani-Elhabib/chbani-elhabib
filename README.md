@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi there, I'm 
+    Hi, I'm 
     <a href="https://linktr.ee/chbani.elbabib" target="_blank">El Habib CHBANI </a>
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
