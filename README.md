@@ -34,10 +34,7 @@
 </p>
 <h3> • Back-End :</h3>
 <p align="left">
-    <img src="image/php.png" alt="php" width="87px" height="69px"/>
-    <img src="image/laravel.png" alt="laravel" width="76px" height="66px" />
-    <img src="image/nodejs.png" alt="nodejs" width="106px" height="79px" />
-    <img src="image/Expressjs.png" alt="expressjs" width="108px" height="75px"/>
+    <img src="image/back-end.png" alt="back-end"/>
 </p>
 <h3> • DadaBase  :</h3>
 <p align="left">
