@@ -20,7 +20,7 @@
 <br>
 📫 How to reach me: chbani.el7abib@gmail.com
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center" color="red">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <h3> • Front-End :</h3>
 <p align="left">
     <img src="image/html.png" alt="html5" width="87px" height="69px"/>
@@ -34,7 +34,7 @@
 </p>
 <h3> • Back-End :</h3>
 <p align="left">
-    <img src="image/back-end.png" alt="back-end"/>
+    <img src="image/Front-End.png" alt="Front-End" />
 </p>
 <h3> • DadaBase  :</h3>
 <p align="left">
